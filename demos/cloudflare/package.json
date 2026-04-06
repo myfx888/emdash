@@ -8,7 +8,7 @@
     "build": "astro build",
     "build:all": "pnpm run --filter @emdash-cms/demo-cloudflare... build",
     "preview": "astro preview",
-    "deploy": "pnpm build:all && wrangler deploy",
+    "deploy": "pnpm build:all && npx wrangler deploy",
     "db:create": "wrangler d1 create emdash-demo",
     "db:reset:remote": "./scripts/reset-db.sh",
     "typecheck": "astro check"
