@@ -7,13 +7,13 @@
 	// See: https://github.com/withastro/astro/issues/14511
 	"compatibility_flags": ["nodejs_compat", "disable_nodejs_process_v2"],
 	// Static assets served from dist/
-	"routes": [
-		{
-			"pattern": "demo.emdashcms.com",
-			"zone_name": "demo.emdashcms.com",
-			"custom_domain": true,
-		},
-	],
+	// "routes": [
+	// 	{
+	// 		"pattern": "demo.emdashcms.com",
+	// 		"zone_name": "demo.emdashcms.com",
+	// 		"custom_domain": true,
+	// 	},
+	// ],
 	// D1 Database binding
 	"d1_databases": [
 		{
