@@ -33,9 +33,9 @@
 		"enabled": true,
 	},
 	// Worker Loader for plugin sandboxing
-	"worker_loaders": [
-		{
-			"binding": "LOADER",
-		},
-	],
+	// "worker_loaders": [
+	// 	{
+	// 		"binding": "LOADER",
+	// 	},
+	// ],
 }
