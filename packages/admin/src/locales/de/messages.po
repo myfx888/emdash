@@ -2728,7 +2728,7 @@ msgstr "Existiert"
 msgid "Exit distraction-free mode"
 msgstr "Ablenkungsfreien Modus verlassen"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Exit Spotlight Mode"
 msgstr "Fokusmodus verlassen"
 
@@ -3660,9 +3660,13 @@ msgstr "Ein Bild einfügen"
 msgid "Insert from URL"
 msgstr "Von URL einfügen"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3131
+#: packages/admin/src/components/PortableTextEditor.tsx:3143
 msgid "Insert Horizontal Rule"
 msgstr "Horizontale Linie einfügen"
+
+#: packages/admin/src/components/PortableTextEditor.tsx:3137
+msgid "Insert HTML"
+msgstr ""
 
 #: packages/admin/src/components/PortableTextEditor.tsx:3126
 msgid "Insert Image"
@@ -5325,7 +5329,7 @@ msgstr "Weiterleiten zur Anmeldung..."
 msgid "Redirects"
 msgstr "Weiterleitungen"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3151
+#: packages/admin/src/components/PortableTextEditor.tsx:3163
 msgid "Redo"
 msgstr "Wiederholen"
 
@@ -6068,7 +6072,7 @@ msgstr "Bild auswählen"
 
 #: packages/admin/src/components/MediaPickerModal.tsx:140
 #: packages/admin/src/components/PortableTextEditor.tsx:2503
-#: packages/admin/src/components/PortableTextEditor.tsx:3176
+#: packages/admin/src/components/PortableTextEditor.tsx:3188
 #: packages/admin/src/components/settings/SeoSettings.tsx:221
 msgid "Select Image"
 msgstr "Bild auswählen"
@@ -6434,7 +6438,7 @@ msgstr "Spam"
 msgid "Spam"
 msgstr "Spam"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Spotlight Mode"
 msgstr "Spotlight-Modus"
 
@@ -6955,7 +6959,7 @@ msgstr "Nicht zugewiesen"
 msgid "Underline"
 msgstr "Unterstreichen"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3144
+#: packages/admin/src/components/PortableTextEditor.tsx:3156
 msgid "Undo"
 msgstr "Rückgängig"
 

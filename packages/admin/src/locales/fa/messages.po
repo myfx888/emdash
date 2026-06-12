@@ -2730,7 +2730,7 @@ msgstr "وجود دارد"
 msgid "Exit distraction-free mode"
 msgstr "خروج از حالت بدون حواس‌پرتی"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Exit Spotlight Mode"
 msgstr ""
 
@@ -3662,8 +3662,12 @@ msgstr "درج تصویر"
 msgid "Insert from URL"
 msgstr "درج از آدرس"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3131
+#: packages/admin/src/components/PortableTextEditor.tsx:3143
 msgid "Insert Horizontal Rule"
+msgstr ""
+
+#: packages/admin/src/components/PortableTextEditor.tsx:3137
+msgid "Insert HTML"
 msgstr ""
 
 #: packages/admin/src/components/PortableTextEditor.tsx:3126
@@ -5324,7 +5328,7 @@ msgstr "در حال هدایت به صفحه ورود..."
 msgid "Redirects"
 msgstr "تغییر مسیر‌ها"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3151
+#: packages/admin/src/components/PortableTextEditor.tsx:3163
 msgid "Redo"
 msgstr ""
 
@@ -6067,7 +6071,7 @@ msgstr "انتخاب تصویر"
 
 #: packages/admin/src/components/MediaPickerModal.tsx:140
 #: packages/admin/src/components/PortableTextEditor.tsx:2503
-#: packages/admin/src/components/PortableTextEditor.tsx:3176
+#: packages/admin/src/components/PortableTextEditor.tsx:3188
 #: packages/admin/src/components/settings/SeoSettings.tsx:221
 msgid "Select Image"
 msgstr "انتخاب تصویر"
@@ -6433,7 +6437,7 @@ msgstr "جفنگ"
 msgid "Spam"
 msgstr "اسپم"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Spotlight Mode"
 msgstr ""
 
@@ -6954,7 +6958,7 @@ msgstr "بدون تخصیص"
 msgid "Underline"
 msgstr ""
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3144
+#: packages/admin/src/components/PortableTextEditor.tsx:3156
 msgid "Undo"
 msgstr ""
 

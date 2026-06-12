@@ -2728,7 +2728,7 @@ msgstr "มีอยู่"
 msgid "Exit distraction-free mode"
 msgstr "ออกจากโหมดไร้สิ่งรบกวน"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Exit Spotlight Mode"
 msgstr "ออกจากโหมด Spotlight"
 
@@ -3660,9 +3660,13 @@ msgstr "แทรกรูปภาพ"
 msgid "Insert from URL"
 msgstr "แทรกจาก URL"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3131
+#: packages/admin/src/components/PortableTextEditor.tsx:3143
 msgid "Insert Horizontal Rule"
 msgstr "แทรกเส้นคั่นแนวนอน"
+
+#: packages/admin/src/components/PortableTextEditor.tsx:3137
+msgid "Insert HTML"
+msgstr ""
 
 #: packages/admin/src/components/PortableTextEditor.tsx:3126
 msgid "Insert Image"
@@ -5325,7 +5329,7 @@ msgstr "กำลังเปลี่ยนเส้นทางไปยัง
 msgid "Redirects"
 msgstr "การเปลี่ยนเส้นทาง"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3151
+#: packages/admin/src/components/PortableTextEditor.tsx:3163
 msgid "Redo"
 msgstr "ทำซ้ำ"
 
@@ -6068,7 +6072,7 @@ msgstr "เลือกรูปภาพ"
 
 #: packages/admin/src/components/MediaPickerModal.tsx:140
 #: packages/admin/src/components/PortableTextEditor.tsx:2503
-#: packages/admin/src/components/PortableTextEditor.tsx:3176
+#: packages/admin/src/components/PortableTextEditor.tsx:3188
 #: packages/admin/src/components/settings/SeoSettings.tsx:221
 msgid "Select Image"
 msgstr "เลือกรูปภาพ"
@@ -6434,7 +6438,7 @@ msgstr "สแปม"
 msgid "Spam"
 msgstr "สแปม"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Spotlight Mode"
 msgstr "โหมดสปอตไลต์"
 
@@ -6955,7 +6959,7 @@ msgstr "ยังไม่ได้กำหนด"
 msgid "Underline"
 msgstr "ขีดเส้นใต้"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3144
+#: packages/admin/src/components/PortableTextEditor.tsx:3156
 msgid "Undo"
 msgstr "เลิกทำ"
 

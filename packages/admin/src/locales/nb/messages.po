@@ -2731,7 +2731,7 @@ msgstr "Finnes"
 msgid "Exit distraction-free mode"
 msgstr "Avslutt distraksjonsfri modus"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Exit Spotlight Mode"
 msgstr "Avslutt søkelysmodus"
 
@@ -3663,9 +3663,13 @@ msgstr "Sett inn et bilde"
 msgid "Insert from URL"
 msgstr "Sett inn fra URL"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3131
+#: packages/admin/src/components/PortableTextEditor.tsx:3143
 msgid "Insert Horizontal Rule"
 msgstr "Sett inn horisontal linje"
+
+#: packages/admin/src/components/PortableTextEditor.tsx:3137
+msgid "Insert HTML"
+msgstr ""
 
 #: packages/admin/src/components/PortableTextEditor.tsx:3126
 msgid "Insert Image"
@@ -5328,7 +5332,7 @@ msgstr "Omdirigerer til innlogging …"
 msgid "Redirects"
 msgstr "Omdirigeringer"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3151
+#: packages/admin/src/components/PortableTextEditor.tsx:3163
 msgid "Redo"
 msgstr "Gjør om"
 
@@ -6071,7 +6075,7 @@ msgstr "Velg bilde"
 
 #: packages/admin/src/components/MediaPickerModal.tsx:140
 #: packages/admin/src/components/PortableTextEditor.tsx:2503
-#: packages/admin/src/components/PortableTextEditor.tsx:3176
+#: packages/admin/src/components/PortableTextEditor.tsx:3188
 #: packages/admin/src/components/settings/SeoSettings.tsx:221
 msgid "Select Image"
 msgstr "Velg bilde"
@@ -6437,7 +6441,7 @@ msgstr "søppelpost"
 msgid "Spam"
 msgstr "Søppelpost"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Spotlight Mode"
 msgstr "Rampelysmodus"
 
@@ -6958,7 +6962,7 @@ msgstr "Ikke tildelt"
 msgid "Underline"
 msgstr "Understreking"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3144
+#: packages/admin/src/components/PortableTextEditor.tsx:3156
 msgid "Undo"
 msgstr "Angre"
 

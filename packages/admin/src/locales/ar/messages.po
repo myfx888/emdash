@@ -2732,7 +2732,7 @@ msgstr "موجود"
 msgid "Exit distraction-free mode"
 msgstr "الخروج من وضع الخلو من التشتت"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Exit Spotlight Mode"
 msgstr "الخروج من وضع التسليط"
 
@@ -3664,9 +3664,13 @@ msgstr "إدراج صورة"
 msgid "Insert from URL"
 msgstr "إدراج من رابط"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3131
+#: packages/admin/src/components/PortableTextEditor.tsx:3143
 msgid "Insert Horizontal Rule"
 msgstr "إدراج خط فاصل"
+
+#: packages/admin/src/components/PortableTextEditor.tsx:3137
+msgid "Insert HTML"
+msgstr ""
 
 #: packages/admin/src/components/PortableTextEditor.tsx:3126
 msgid "Insert Image"
@@ -5329,7 +5333,7 @@ msgstr "جاري إعادة التوجيه إلى تسجيل الدخول..."
 msgid "Redirects"
 msgstr "إعادات التوجيه"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3151
+#: packages/admin/src/components/PortableTextEditor.tsx:3163
 msgid "Redo"
 msgstr "إعادة"
 
@@ -6072,7 +6076,7 @@ msgstr "اختيار صورة"
 
 #: packages/admin/src/components/MediaPickerModal.tsx:140
 #: packages/admin/src/components/PortableTextEditor.tsx:2503
-#: packages/admin/src/components/PortableTextEditor.tsx:3176
+#: packages/admin/src/components/PortableTextEditor.tsx:3188
 #: packages/admin/src/components/settings/SeoSettings.tsx:221
 msgid "Select Image"
 msgstr "اختيار صورة"
@@ -6438,7 +6442,7 @@ msgstr "غير مرغوب فيه"
 msgid "Spam"
 msgstr "غير مرغوب فيه"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Spotlight Mode"
 msgstr "وضع التسليط"
 
@@ -6959,7 +6963,7 @@ msgstr "لم يتم التعيين"
 msgid "Underline"
 msgstr "تسطير"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3144
+#: packages/admin/src/components/PortableTextEditor.tsx:3156
 msgid "Undo"
 msgstr "تراجع"
 

@@ -2728,7 +2728,7 @@ msgstr "已存在"
 msgid "Exit distraction-free mode"
 msgstr "退出無干擾模式"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Exit Spotlight Mode"
 msgstr ""
 
@@ -3660,8 +3660,12 @@ msgstr "插入圖片"
 msgid "Insert from URL"
 msgstr "從 URL 插入"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3131
+#: packages/admin/src/components/PortableTextEditor.tsx:3143
 msgid "Insert Horizontal Rule"
+msgstr ""
+
+#: packages/admin/src/components/PortableTextEditor.tsx:3137
+msgid "Insert HTML"
 msgstr ""
 
 #: packages/admin/src/components/PortableTextEditor.tsx:3126
@@ -5322,7 +5326,7 @@ msgstr "正在重定向到登錄..."
 msgid "Redirects"
 msgstr "重定向"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3151
+#: packages/admin/src/components/PortableTextEditor.tsx:3163
 msgid "Redo"
 msgstr ""
 
@@ -6065,7 +6069,7 @@ msgstr "選擇圖片"
 
 #: packages/admin/src/components/MediaPickerModal.tsx:140
 #: packages/admin/src/components/PortableTextEditor.tsx:2503
-#: packages/admin/src/components/PortableTextEditor.tsx:3176
+#: packages/admin/src/components/PortableTextEditor.tsx:3188
 #: packages/admin/src/components/settings/SeoSettings.tsx:221
 msgid "Select Image"
 msgstr "選擇圖片"
@@ -6431,7 +6435,7 @@ msgstr "垃圾"
 msgid "Spam"
 msgstr "垃圾"
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3164
+#: packages/admin/src/components/PortableTextEditor.tsx:3176
 msgid "Spotlight Mode"
 msgstr ""
 
@@ -6952,7 +6956,7 @@ msgstr "未分配"
 msgid "Underline"
 msgstr ""
 
-#: packages/admin/src/components/PortableTextEditor.tsx:3144
+#: packages/admin/src/components/PortableTextEditor.tsx:3156
 msgid "Undo"
 msgstr ""
 
